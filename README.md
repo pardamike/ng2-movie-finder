@@ -3,8 +3,8 @@ Using final release of Angular 2 and the Movie Database API, an example of how t
 
 <a href="http://mikeparda.com/ng2-movie-finder/">Live Demo Here</a>
 
-Built with:
-<a href="https://www.themoviedb.org/documentation/api">The Movie Database API</a>
-<a href="http://getbootstrap.com/">Bootstrap</a>
-<a href="https://bootswatch.com/">Bootswatch (using SuperHero theme)</a>
-<a href="https://angular.io/">Angular 2</a>
+Built with:<br>
+<a href="https://www.themoviedb.org/documentation/api">The Movie Database API</a><br>
+<a href="http://getbootstrap.com/">Bootstrap</a><br>
+<a href="https://bootswatch.com/">Bootswatch (using SuperHero theme)</a><br>
+<a href="https://angular.io/">Angular 2</a><br>
