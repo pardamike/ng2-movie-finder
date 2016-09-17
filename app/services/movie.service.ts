@@ -8,7 +8,7 @@ export class MovieService {
     currentDate: Date;
 
     constructor(private _jsonp:Jsonp) {
-        this.apiKey = '{YOUR-KEY-HERE}}';
+        this.apiKey = '{YOUR-KEY-HERE}';
         this.currentDate = new Date();
     }
 
