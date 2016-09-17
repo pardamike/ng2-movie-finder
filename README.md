@@ -1,6 +1,8 @@
 # Movie Finder Application with Angular 2 and Movie Database API
 Using final release of Angular 2 and the Movie Database API, an example of how to use routing and services in Angular 2.
 
+Pretty simple little app to expand on, <a href="https://www.themoviedb.org/documentation/api">The Movie Database API</a> is pretty robust and can get quite a bit of information, this small app is just a starting point.
+
 <a href="http://mikeparda.com/ng2-movie-finder/">Live Demo Here</a>
 
 To use:
