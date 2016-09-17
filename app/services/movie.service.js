@@ -14,7 +14,7 @@ require('rxjs/Rx');
 var MovieService = (function () {
     function MovieService(_jsonp) {
         this._jsonp = _jsonp;
-        this.apiKey = 'c4500494e4c1329fb597497b6708a20e';
+        this.apiKey = '{YOUR-KEY-HERE}';
         this.currentDate = new Date();
     }
     MovieService.prototype.getPopular = function () {
