@@ -5,7 +5,7 @@ Pretty simple little app to expand on, <a href="https://www.themoviedb.org/docum
 
 <a href="http://mikeparda.com/ng2-movie-finder/">Live Demo Here</a>
 
-To use:
+# To use:
 
 Download then then change app/services/movie.service.ts on line 11 and add in your API key from <a href="https://www.themoviedb.org/documentation/api">The Movie Database API</a><br>
 <br>
@@ -14,7 +14,7 @@ Then:
 npm start
 </code>
 
-Built with:<br>
+# Built with:<br>
 <a href="https://www.themoviedb.org/documentation/api">The Movie Database API</a><br>
 <a href="http://getbootstrap.com/">Bootstrap</a><br>
 <a href="https://bootswatch.com/">Bootswatch (using SuperHero theme)</a><br>
