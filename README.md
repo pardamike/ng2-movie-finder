@@ -7,7 +7,7 @@ Pretty simple little app to expand on, <a href="https://www.themoviedb.org/docum
 
 # To use:
 
-Download then then change app/services/movie.service.ts on line 11 and add in your API key from <a href="https://www.themoviedb.org/documentation/api">The Movie Database API</a><br>
+Download then change app/services/movie.service.ts on line 11 and add in your API key from <a href="https://www.themoviedb.org/documentation/api">The Movie Database API</a><br>
 <br>
 Then:
 <code>
